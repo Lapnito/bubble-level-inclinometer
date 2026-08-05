@@ -157,7 +157,7 @@ Dibangun oleh **[lapnito.cz s.r.o.](https://lapnito.cz)** (Lapnito Development S
 
 - **Dukungan:** [lapnito.cz/bubble_level_inclinometer/support.html](https://lapnito.cz/bubble_level_inclinometer/support.html)
 - **Email:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
-- **Aplikasi Lainnya:** [Google Play](https://play.google.com/store/apps/developer?id=lapnito+development+studio) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203)
+- **Aplikasi Lainnya:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203)
 
 ---
 

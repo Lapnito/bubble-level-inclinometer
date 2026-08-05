@@ -157,7 +157,7 @@ C: Her iki sürüm de aynı temel işlevselliği sunar. Android sürümü "Bubbl
 
 - **Destek:** [lapnito.cz/bubble_level_inclinometer/support.html](https://lapnito.cz/bubble_level_inclinometer/support.html)
 - **E-posta:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
-- **Daha fazla uygulama:** [Google Play](https://play.google.com/store/apps/developer?id=lapnito+development+studio) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203)
+- **Daha fazla uygulama:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203)
 
 ---
 

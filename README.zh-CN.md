@@ -157,7 +157,7 @@
 
 - **支持:** [lapnito.cz/bubble_level_inclinometer/support.html](https://lapnito.cz/bubble_level_inclinometer/support.html)
 - **邮箱:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
-- **更多应用:** [Google Play](https://play.google.com/store/apps/developer?id=lapnito+development+studio) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203)
+- **更多应用:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203)
 
 ---
 
