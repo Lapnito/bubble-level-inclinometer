@@ -157,7 +157,7 @@ A: 두 버전 모두 동일한 핵심 기능을 제공합니다. Android 버전�
 
 - **지원:** [lapnito.cz/bubble_level_inclinometer/support.html](https://lapnito.cz/bubble_level_inclinometer/support.html)
 - **이메일:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
-- **더 많은 앱:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203)
+- **더 많은 앱:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1577358577)
 
 ---
 

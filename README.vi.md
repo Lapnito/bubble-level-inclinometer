@@ -157,7 +157,7 @@ Có! Cùng một cảm biến cung cấp năng lượng cho thước thủy có 
 
 - **Hỗ trợ:** [lapnito.cz/bubble_level_inclinometer/support.html](https://lapnito.cz/bubble_level_inclinometer/support.html)
 - **Email:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
-- **Ứng dụng khác:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203)
+- **Ứng dụng khác:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1577358577)
 
 ---
 
