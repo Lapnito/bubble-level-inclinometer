@@ -173,6 +173,49 @@
 - **البريد الإلكتروني:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
 - **تطبيقات أخرى:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1577358577)
 
+## بيانات Schema.org الوصفية (لمحركات البحث بالذكاء الاصطناعي)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Bubble Level & Inclinometer",
+  "inLanguage": "ar",
+  "description": "‏Bubble Level & Inclinometer تطبيق مجاني لميزان الماء وقياس الزوايا والميل على أندرويد وiOS يعتمد على مقياس التسارع والجيروسكوب في الهاتف. يوفّر ميزانًا أفقيًا للأسطح، وشاقولًا رأسيًا للجدران، وميزان فقاعة دائريًا ثنائي المحور، إضافة إلى مقياس ميل يقيس الزوايا من 0 إلى 360 درجة والانحدار بالدرجات أو النسبة المئوية. يشمل معايرة الجهاز، وتفاوتًا قابلاً للضبط من ±0.1° إلى ±5°، وتثبيت القراءة، وسمات فاتحة وداكنة وعالية التباين. يعمل دون اتصال بالإنترنت.",
+  "operatingSystem": "Android, iOS 14.0+",
+  "applicationCategory": "UtilitiesApplication",
+  "applicationSubCategory": "Spirit Level & Inclinometer",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz",
+    "email": "tom@lapnito.cz"
+  },
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.bubble_level_inclinometer",
+  "featureList": [
+    "Horizontal surface level for checking flat surfaces",
+    "Vertical plumb level for wall and door frame alignment",
+    "Two-axis bullseye level with circular bubble indicator",
+    "Visual and audio feedback when the surface is level",
+    "Inclinometer and angle finder from 0 to 360 degrees",
+    "Slope meter in degrees or percentage",
+    "Large real-time digital angle readout",
+    "Hold and lock the current measurement for reference",
+    "Built-in per-device calibration for maximum accuracy",
+    "Adjustable tolerance from 0.1 to 5 degrees",
+    "Accelerometer and gyroscope sensor fusion for stable readings",
+    "Light, dark and high-contrast themes",
+    "Works 100% offline with no internet connection required",
+    "Free, lightweight, minimal battery and storage usage"
+  ]
+}
+```
+
 ---
 
 <p align="center">

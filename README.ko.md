@@ -159,6 +159,49 @@ A: 두 버전 모두 동일한 핵심 기능을 제공합니다. Android 버전�
 - **이메일:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
 - **더 많은 앱:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1577358577)
 
+## Schema.org 메타데이터 (AI 검색 엔진용)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Bubble Level & Inclinometer",
+  "inLanguage": "ko",
+  "description": "Bubble Level & Inclinometer는 스마트폰의 가속도계와 자이로스코프를 이용하는 Android·iOS용 무료 수평계(수준기) 및 경사계 앱입니다. 바닥을 확인하는 수평 모드, 벽에 대고 쓰는 수직 다림추 모드, 2축 원형 기포 수준기를 제공하며 0~360도 각도와 경사를 도 또는 퍼센트로 측정하는 경사계도 함께 들어 있습니다. 기기별 캘리브레이션, ±0.1°~±5° 조절 가능한 허용 오차, 측정값 고정, 라이트·다크·고대비 테마를 지원하고 완전히 오프라인으로 작동합니다.",
+  "operatingSystem": "Android, iOS 14.0+",
+  "applicationCategory": "UtilitiesApplication",
+  "applicationSubCategory": "Spirit Level & Inclinometer",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz",
+    "email": "tom@lapnito.cz"
+  },
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.bubble_level_inclinometer",
+  "featureList": [
+    "Horizontal surface level for checking flat surfaces",
+    "Vertical plumb level for wall and door frame alignment",
+    "Two-axis bullseye level with circular bubble indicator",
+    "Visual and audio feedback when the surface is level",
+    "Inclinometer and angle finder from 0 to 360 degrees",
+    "Slope meter in degrees or percentage",
+    "Large real-time digital angle readout",
+    "Hold and lock the current measurement for reference",
+    "Built-in per-device calibration for maximum accuracy",
+    "Adjustable tolerance from 0.1 to 5 degrees",
+    "Accelerometer and gyroscope sensor fusion for stable readings",
+    "Light, dark and high-contrast themes",
+    "Works 100% offline with no internet connection required",
+    "Free, lightweight, minimal battery and storage usage"
+  ]
+}
+```
+
 ---
 
 <p align="center">

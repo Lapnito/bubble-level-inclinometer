@@ -159,6 +159,49 @@ Dibangun oleh **[lapnito.cz s.r.o.](https://lapnito.cz)** (Lapnito Development S
 - **Email:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
 - **Aplikasi Lainnya:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1577358577)
 
+## Metadata Schema.org (untuk mesin pencari AI)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Bubble Level & Inclinometer",
+  "inLanguage": "id",
+  "description": "Bubble Level & Inclinometer adalah aplikasi waterpass dan pengukur sudut gratis untuk Android dan iOS yang membaca akselerometer serta giroskop ponsel. Tersedia waterpass horizontal untuk permukaan, unting-unting vertikal untuk dinding, dan nivo gelembung dua sumbu, ditambah inklinometer yang mengukur sudut 0 hingga 360 derajat serta kemiringan dalam derajat atau persen. Dilengkapi kalibrasi perangkat, toleransi yang dapat diatur dari ±0,1° sampai ±5°, penguncian hasil ukur, serta tema terang, gelap, dan kontras tinggi. Bekerja sepenuhnya offline.",
+  "operatingSystem": "Android, iOS 14.0+",
+  "applicationCategory": "UtilitiesApplication",
+  "applicationSubCategory": "Spirit Level & Inclinometer",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz",
+    "email": "tom@lapnito.cz"
+  },
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.bubble_level_inclinometer",
+  "featureList": [
+    "Horizontal surface level for checking flat surfaces",
+    "Vertical plumb level for wall and door frame alignment",
+    "Two-axis bullseye level with circular bubble indicator",
+    "Visual and audio feedback when the surface is level",
+    "Inclinometer and angle finder from 0 to 360 degrees",
+    "Slope meter in degrees or percentage",
+    "Large real-time digital angle readout",
+    "Hold and lock the current measurement for reference",
+    "Built-in per-device calibration for maximum accuracy",
+    "Adjustable tolerance from 0.1 to 5 degrees",
+    "Accelerometer and gyroscope sensor fusion for stable readings",
+    "Light, dark and high-contrast themes",
+    "Works 100% offline with no internet connection required",
+    "Free, lightweight, minimal battery and storage usage"
+  ]
+}
+```
+
 ---
 
 <p align="center">

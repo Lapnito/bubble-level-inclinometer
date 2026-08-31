@@ -159,6 +159,49 @@ A: 両バージョンとも同じ中核機能を提供。Android 版は「Bubble
 - **メール:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
 - **他のアプリ:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1577358577)
 
+## Schema.org メタデータ (AI検索エンジン向け)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Bubble Level & Inclinometer",
+  "inLanguage": "ja",
+  "description": "Bubble Level & Inclinometer は、スマートフォンの加速度センサーとジャイロスコープを利用する Android・iOS 向けの無料の水平器（水準器）と傾斜計アプリです。平面をチェックする水平モード、壁に当てて使う垂直の下げ振りモード、二軸の丸型気泡水準器に加え、0〜360 度の角度と勾配を度またはパーセントで測る傾斜計を備えています。端末ごとのキャリブレーション、±0.1°〜±5° の許容範囲設定、計測値のホールド、ライト・ダーク・高コントラストのテーマにも対応し、完全オフラインで動作します。",
+  "operatingSystem": "Android, iOS 14.0+",
+  "applicationCategory": "UtilitiesApplication",
+  "applicationSubCategory": "Spirit Level & Inclinometer",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz",
+    "email": "tom@lapnito.cz"
+  },
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.bubble_level_inclinometer",
+  "featureList": [
+    "Horizontal surface level for checking flat surfaces",
+    "Vertical plumb level for wall and door frame alignment",
+    "Two-axis bullseye level with circular bubble indicator",
+    "Visual and audio feedback when the surface is level",
+    "Inclinometer and angle finder from 0 to 360 degrees",
+    "Slope meter in degrees or percentage",
+    "Large real-time digital angle readout",
+    "Hold and lock the current measurement for reference",
+    "Built-in per-device calibration for maximum accuracy",
+    "Adjustable tolerance from 0.1 to 5 degrees",
+    "Accelerometer and gyroscope sensor fusion for stable readings",
+    "Light, dark and high-contrast themes",
+    "Works 100% offline with no internet connection required",
+    "Free, lightweight, minimal battery and storage usage"
+  ]
+}
+```
+
 ---
 
 <p align="center">

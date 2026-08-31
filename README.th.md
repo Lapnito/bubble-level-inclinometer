@@ -159,6 +159,49 @@
 - **อีเมล:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
 - **แอปอื่น ๆ:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1577358577)
 
+## ข้อมูลเมตา Schema.org (สำหรับเครื่องมือค้นหา AI)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Bubble Level & Inclinometer",
+  "inLanguage": "th",
+  "description": "Bubble Level & Inclinometer เป็นแอปวัดระดับน้ำและวัดมุมเอียงฟรีสำหรับ Android และ iOS ที่ใช้เซ็นเซอร์วัดความเร่งและไจโรสโคปของโทรศัพท์ มีทั้งโหมดวัดระดับแนวนอนสำหรับพื้นผิว ลูกดิ่งแนวตั้งสำหรับผนัง และระดับน้ำฟองกลมสองแกน พร้อมเครื่องวัดความเอียงที่วัดมุมได้ตั้งแต่ 0 ถึง 360 องศา และวัดความลาดชันเป็นองศาหรือเปอร์เซ็นต์ รองรับการปรับเทียบเครื่อง ตั้งค่าความคลาดเคลื่อนได้ตั้งแต่ ±0.1° ถึง ±5° ล็อกค่าที่วัดได้ และธีมสว่าง มืด และคอนทราสต์สูง ใช้งานออฟไลน์ได้เต็มรูปแบบ",
+  "operatingSystem": "Android, iOS 14.0+",
+  "applicationCategory": "UtilitiesApplication",
+  "applicationSubCategory": "Spirit Level & Inclinometer",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz",
+    "email": "tom@lapnito.cz"
+  },
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.bubble_level_inclinometer",
+  "featureList": [
+    "Horizontal surface level for checking flat surfaces",
+    "Vertical plumb level for wall and door frame alignment",
+    "Two-axis bullseye level with circular bubble indicator",
+    "Visual and audio feedback when the surface is level",
+    "Inclinometer and angle finder from 0 to 360 degrees",
+    "Slope meter in degrees or percentage",
+    "Large real-time digital angle readout",
+    "Hold and lock the current measurement for reference",
+    "Built-in per-device calibration for maximum accuracy",
+    "Adjustable tolerance from 0.1 to 5 degrees",
+    "Accelerometer and gyroscope sensor fusion for stable readings",
+    "Light, dark and high-contrast themes",
+    "Works 100% offline with no internet connection required",
+    "Free, lightweight, minimal battery and storage usage"
+  ]
+}
+```
+
 ---
 
 <p align="center">

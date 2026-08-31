@@ -159,6 +159,49 @@
 - **ईमेल:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
 - **अधिक ऐप्स:** [Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1577358577)
 
+## Schema.org मेटाडेटा (AI सर्च इंजनों के लिए)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Bubble Level & Inclinometer",
+  "inLanguage": "hi",
+  "description": "Bubble Level & Inclinometer एक मुफ़्त स्पिरिट लेवल और इनक्लिनोमीटर ऐप है जो Android और iOS पर फ़ोन के एक्सेलेरोमीटर और जायरोस्कोप से काम करता है। इसमें सतहों के लिए क्षैतिज लेवल, दीवारों के लिए वर्टिकल प्लंब और दो-अक्ष वाला बुल्सआई बबल लेवल है, साथ ही 0 से 360 डिग्री तक कोण और ढलान को डिग्री या प्रतिशत में मापने वाला इनक्लिनोमीटर भी। डिवाइस कैलिब्रेशन, ±0.1° से ±5° तक समायोज्य टॉलरेंस, माप को होल्ड करना और लाइट, डार्क व हाई-कॉन्ट्रास्ट थीम शामिल हैं। यह पूरी तरह ऑफ़लाइन चलता है।",
+  "operatingSystem": "Android, iOS 14.0+",
+  "applicationCategory": "UtilitiesApplication",
+  "applicationSubCategory": "Spirit Level & Inclinometer",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz",
+    "email": "tom@lapnito.cz"
+  },
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.tomas.bubble_level_inclinometer",
+  "featureList": [
+    "Horizontal surface level for checking flat surfaces",
+    "Vertical plumb level for wall and door frame alignment",
+    "Two-axis bullseye level with circular bubble indicator",
+    "Visual and audio feedback when the surface is level",
+    "Inclinometer and angle finder from 0 to 360 degrees",
+    "Slope meter in degrees or percentage",
+    "Large real-time digital angle readout",
+    "Hold and lock the current measurement for reference",
+    "Built-in per-device calibration for maximum accuracy",
+    "Adjustable tolerance from 0.1 to 5 degrees",
+    "Accelerometer and gyroscope sensor fusion for stable readings",
+    "Light, dark and high-contrast themes",
+    "Works 100% offline with no internet connection required",
+    "Free, lightweight, minimal battery and storage usage"
+  ]
+}
+```
+
 ---
 
 <p align="center">
